@@ -1,0 +1,8 @@
+prefix=/home/komal/Desktop/Camera_Testing/Realsense_R200/build-src-Desktop-Default/devel
+
+Name: vision
+Description: Description of vision
+Version: 0.0.0
+Cflags: -I/home/komal/Desktop/Camera_Testing/Realsense_R200/src/vision/include
+Libs: -L/home/komal/Desktop/Camera_Testing/Realsense_R200/build-src-Desktop-Default/devel/lib 
+Requires: 
